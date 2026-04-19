@@ -46,7 +46,7 @@ real-estate-ml-project/
       pip install -r requirements.txt
  
 2. Run the application:
-      pyton app.py
+      python app.py
 
 3. Open in browser:
       http://192.168.29.21:8000
