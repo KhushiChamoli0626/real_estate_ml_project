@@ -49,7 +49,7 @@ real-estate-ml-project/
       python app.py
 
 3. Open in browser:
-      http://192.168.29.21:8000
+      https://real-estate-ml-project.onrender.com
 
 
    
