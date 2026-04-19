@@ -29,13 +29,12 @@ The model is built using Linear Regression (Scikit-learn) and deployed as a Flas
 
 ## 📂 Project Structure
 real-estate-price-prediction/
-│
-├── app.py
-├── main.py
-├── data.csv
-├── requirements.txt
-└── templates/
-└── index.html
+ -app.py
+ -main.py
+ -data.csv
+ -requirements.txt
+ -templates/
+    -index.html
 
 
 ---
