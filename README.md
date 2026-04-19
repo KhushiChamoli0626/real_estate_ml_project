@@ -1,6 +1,6 @@
-# 🏠 Real Estate Price Prediction
-
 # An end-to-end Machine Learning project with web deployment.
+
+# 🏠 Real Estate Price Prediction
 
 <img width="1917" height="758" alt="image" src="https://github.com/user-attachments/assets/eede79b3-03f6-49fc-a6d1-75dc8feb8cb8" />
 
