@@ -1,5 +1,9 @@
 # 🏠 Real Estate Price Prediction
 
+# An end-to-end Machine Learning project with web deployment.
+
+<img width="1917" height="758" alt="image" src="https://github.com/user-attachments/assets/eede79b3-03f6-49fc-a6d1-75dc8feb8cb8" />
+
 A regression-based Machine Learning project that predicts house prices using features like area, bedrooms, bathrooms, and location.
 
 The model is built using Linear Regression (Scikit-learn) and deployed as a Flask web application, where users can input property details through a web browser and get real-time predictions.
