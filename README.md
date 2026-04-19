@@ -49,7 +49,7 @@ real-estate-ml-project/
       pyton app.py
 
 3. Open in browser:
-      http://192.168.29.21:5000
+      http://192.168.29.21:8000
 
 
    
